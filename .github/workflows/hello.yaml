@@ -2,7 +2,7 @@ name: Read hello.txt file
 on:
   push:
     branches:
-      - master
+      - main
 
 
 jobs:
