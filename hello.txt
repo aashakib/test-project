@@ -1,1 +1,2 @@
-demo text in hello file
+demo text in hello file. 
+line 2
